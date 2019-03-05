@@ -100,4 +100,22 @@ a.button {
 
 /*
   Overall Layout
-*/
+*/  .app-wrap{
+  display: flex;
+  flex-direction:column;
+}
+
+.app-wrap > *{
+  flex: 1 1 auto;
+}
+
+/* heder */
+.app-header{
+  display:flex;
+}
+
+/* content */
+.content{
+  overflow-y:scroll;
+  -webkit-overflow-scrolling: touch;
+}
