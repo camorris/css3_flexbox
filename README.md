@@ -1,28 +1,21 @@
 # Project Title
 
-One Paragraph of project description goes here
+CSS Flexbox is used to help create responsive designs. This tool helps to convey mock ups with a mobile first approach
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Feel free to download file 
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+ 
+ An understanding of CSS
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [CSS] - The web tool focused on
+
 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Hat tip to Wes Bos and the content he creates
